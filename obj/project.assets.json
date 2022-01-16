@@ -214,11 +214,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/funivo/development/Core/service/ProductService/EducationService.csproj",
+      "projectUniqueName": "/Users/funivo/development/Core/service/EducationService/EducationService.csproj",
       "projectName": "EducationService",
-      "projectPath": "/Users/funivo/development/Core/service/ProductService/EducationService.csproj",
+      "projectPath": "/Users/funivo/development/Core/service/EducationService/EducationService.csproj",
       "packagesPath": "/Users/funivo/.nuget/packages/",
-      "outputPath": "/Users/funivo/development/Core/service/ProductService/obj/",
+      "outputPath": "/Users/funivo/development/Core/service/EducationService/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

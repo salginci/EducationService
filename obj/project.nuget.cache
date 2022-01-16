@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mLUofP+Tl8r2L4/GBES8km/1v+hqowdrSk1OUdZNKlvWbhsUoUs+PvdT9gbwsVESjavIx5Ba/94I9yIAgzgKzg==",
+  "dgSpecHash": "8G3ZcIrvpoVLG1H+Gk2784utj5K7lMrRqvtATtjYzIN3rvUPm6l5Iqr3a7Cq1z298UKei01Wrz8fF7m/Xr6xDQ==",
   "success": true,
-  "projectFilePath": "/Users/funivo/development/Core/service/ProductService/EducationService.csproj",
+  "projectFilePath": "/Users/funivo/development/Core/service/EducationService/EducationService.csproj",
   "expectedPackageFiles": [
     "/Users/funivo/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/Users/funivo/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
